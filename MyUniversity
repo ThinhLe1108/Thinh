@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewportviewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/style.css" rel="stylesheet">
+    <title>My University</title>
+</head>
+</head>
+<body>
+    <main>
+        <h1>FPT University</h1>
+        <div>
+            <h2>About</h2>
+            <p>It is well-known for its focus on technology and innovation and offers programs that integrate education with practical industry needs.</p>
+        </div>
+        <div>
+            <h2>Quick Facts</h2>
+            <ul>
+                <li>First Corporation-Owned University in Vietnam</li>
+                <li>High Employability Rate</li>
+                <li>Focus on Practical Education</li>
+            </ul>
+            <h3>Famous Alumni</h3>
+            <ul>
+                <li>HỒ QUỐC ĐẠT</li>
+                <li>HOÀNG TRUNG THIÊN VƯƠNG</li>
+                <li>VÕ ĐÔNG TUẤN ĐẠT</li>
+                <li>TRẦN THANH PHONG</li>
+            </ul>
+
+            <a href="https://daihoc.fpt.edu.vn/dh-fpt-dung-top-201-300-the-gioi-va-dung-thu-2-viet-nam-ve-xep-hang-giao-duc-co-chat-luong/"><h3>One Of The Best Universities In Viet Nam</h3></a>
+            <ol>
+                <li><strong>Ranked 201-300 in the world</strong></li>
+                <li><strong>ranked 2nd in Vietnam for "Quality Education.</strong></li>
+            </ol>
+        </div>
+
+        <div>
+            <h2>Gallery</h2>
+            <img src="https://daihoc.fpt.edu.vn/wp-content/uploads/2022/05/278925368_5225721564133229_1390108524826556166_n.jpeg" alt="FPT University HCM Campus" width="20%">
+            <img src="https://tostemvietnam.com/wp-content/uploads/2021/10/FPT-University-3.jpg" alt="FPT University HANOI Campus" width="20%">
+            <img src="https://channel.mediacdn.vn/428462621602512896/2023/7/14/photo-1-1689302121228313858070.jpg" alt="FPT University QUY NHON Campus" width="20%">
+        </div>
+
+    </main>
+</body>
+</html>
